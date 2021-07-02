@@ -6,7 +6,7 @@
       "description": "To be a Visual Detective",
       "author": [],
       "contents": "\r\nMotivation\r\nOur Team will be taking on Vast challenge 2021 Mini-Challenge 2 and in this study, we aim to use various visual analytics techniques to discover fraudulent usage of company cars for personal business. We will be using the availability of information such as locations visited by the employees and credit cards usage to discover suspicious activities.\r\nProject Objectives\r\nThe project aims to deliver an R-Shiny App that provides: 1. Interactive user interface to allow users on selection of key parameters (such as Car ID, card number, vendor name) to discover visited locations and card spending patterns. 2. Visual map representation of the vehicle movement and popular locations 3. Relationship discovery among GASTech personnel 4. Indicators of suspicious activities via key findings\r\nData Description\r\nData is from VAST Challenge 2021 and can be downloaded from VAST Challenge 2021: Mini-Challenge 2.\r\nThe Data packages provided includes the following\r\nESRI shapefiles of Abila and Kronos\r\nA tourist map of Abila with locations of interest identified, in JPEG format (MC2-Tourist.jpg)\r\ncar-assignments.csv, gps.csv, loyalty_data.csv, cc_data.csv.\r\nThe breakdown of the data type for the csv files are as follow.\r\n\r\nProposed Scope and Methodology\r\nData Preparation In R\r\nConducting Exploratory Data Analysis in R\r\nVisualising and Analysing Time-Oriented Data\r\nVisualising Geographical Data and conducting Geospatial Analysis in R\r\nUsing R Shiny to build web-enabled application\r\nStoryboard & Visualization Features\r\nPrototype\r\nProposed protype as shown below. The user will be able to select the drop down selection fields namely Date,Time,Loyalty Card number and last 4 numbers of credit/debit card. This will result in output panel 1 and 2. Output panel 1 will display the location and the total spendings. Output panel 2 will display the cars that are present near the locations based on the date and time with the vehicle owner details.\r\n\r\nProject Timeline & Deliverables\r\nKey deliverables as part of our project would include the below:\r\nProject Website\r\nProject Github\r\nR Shiny web application\r\nResearch paper\r\nPoster\r\nProject artifacts\r\n\r\nSoftware Tools\r\nRStudio\r\nR Packages\r\nshiny\r\ntidyverse\r\ntmap\r\nDT\r\nplotly\r\nggplot2\r\nTeam Members\r\nAmrita Mishra\r\nSng Kah Leong\r\nReferences\r\nModern R with the tidyverse by Bruno Rodrigues\r\nBrendan R. E. Ansell Introduction to R - tidyverse\r\nAravind Hebbali (2020) Data Visualization with ggplot2\r\nRob Kabacoff (2020) Data Visualization with R\r\nHadley Wickham (2020) Mastering Shiny.\r\nDavid Granjon (2020) Outstanding User Interfaces with Shiny\r\nGarrett Grolemund & Hadley Wickham (2020) R for Data Science.\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-07-03T01:20:30+08:00"
+      "last_modified": "2021-07-03T01:32:05+08:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "To be a Visual Detective\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-07-03T01:20:39+08:00"
+      "last_modified": "2021-07-03T01:32:16+08:00"
     }
   ],
   "collections": ["posts/posts.json"]

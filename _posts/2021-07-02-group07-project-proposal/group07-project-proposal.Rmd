@@ -23,13 +23,14 @@ Our Team will be taking on Vast challenge 2021 Mini-Challenge 2 and in this stud
 # Project Objectives
 
 The project aims to deliver an R-Shiny App that provides:
+
 1.	Interactive user interface to allow users on selection of key parameters (such as Car ID, card number, vendor name) to discover visited locations and card spending patterns.
 2.	Visual map representation of the vehicle movement and popular locations
 3.	Relationship discovery among GASTech personnel
 4.	Indicators of suspicious activities via key findings
 
 # Data Description
-Data is from VAST Challenge 2021 and can be downloaded from VAST Challenge 2021: Mini-Challenge 2.
+Data is from VAST Challenge 2021 and can be downloaded from VAST Challenge 2021: [Mini-Challenge 2](https://vast-challenge.github.io/2021/MC2.html).
 
 The Data packages provided includes the following
 
