@@ -44,6 +44,12 @@ The breakdown of the data type for the csv files are as follow.
 
 # Storyboard & Visualization Features
 
+## Prototype
+
+Proposed protype as shown below. The user will be able to select the drop down selection fields namely Date,Time,Loyalty Card number and last 4 numbers of credit/debit card. This will result in output panel 1 and 2. Output panel 1 will display the location and the total spendings. Output panel 2 will display the cars that are present near the locations based on the date and time with the vehicle owner details.
+
+![](img/Prototype.png)
+
 # Project Timeline & Deliverables 
 Key deliverables as part of our project would include the below:
 

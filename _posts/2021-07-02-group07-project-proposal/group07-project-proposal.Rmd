@@ -19,6 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Our Team will be taking on Vast challenge 2021 Mini-Challenge 2 and in this study, we aim to use various visual analytics techniques to discover fraudulent usage of company cars for personal business. We will be using the availability of information such as locations visited by the employees and credit cards usage to discover suspicious activities.
 
+
 # Project Objectives
 
 The project aims to deliver an R-Shiny App that provides:
@@ -49,6 +50,12 @@ The breakdown of the data type for the csv files are as follow.
 5.	Using R Shiny to build web-enabled application
 
 # Storyboard & Visualization Features
+
+## Prototype
+
+Proposed protype as shown below. The user will be able to select the drop down selection fields namely Date,Time,Loyalty Card number and last 4 numbers of credit/debit card. This will result in output panel 1 and 2. Output panel 1 will display the location and the total spendings. Output panel 2 will display the cars that are present near the locations based on the date and time with the vehicle owner details.
+
+![](img/Prototype.png)
 
 # Project Timeline & Deliverables 
 Key deliverables as part of our project would include the below:
@@ -87,5 +94,3 @@ Key deliverables as part of our project would include the below:
 * Hadley Wickham (2020) [Mastering Shiny](https://mastering-shiny.org/). 
 * David Granjon (2020) [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/index.html)
 * Garrett Grolemund & Hadley Wickham (2020) [R for Data Science](https://r4ds.had.co.nz/).
-
-
