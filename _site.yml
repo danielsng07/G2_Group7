@@ -1,0 +1,12 @@
+name: "G2_Group7 VAST Challenge 2021 Project"
+title: "ISSS608 Group07"
+description: |
+  ISSS608 Group07 Proposal
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
