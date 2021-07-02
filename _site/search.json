@@ -6,7 +6,7 @@
       "description": "To be a Visual Detective",
       "author": [],
       "contents": "\r\nMotivation\r\nOur Team will be taking on Vast challenge 2021 Mini-Challenge 2 and in this study, we aim to use various visual analytics techniques to discover fraudulent usage of company cars for personal business. We will be using the availability of information such as locations visited by the employees and credit cards usage to discover suspicious activities.\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-07-02T17:28:44+08:00"
+      "last_modified": "2021-07-02T17:36:59+08:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-07-02T17:26:53+08:00"
+      "last_modified": "2021-07-02T17:37:02+08:00"
     }
   ],
   "collections": ["posts/posts.json"]
