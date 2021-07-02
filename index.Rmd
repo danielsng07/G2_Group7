@@ -1,8 +1,9 @@
 ---
 title: "G2 Group7 Project"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  To be a Visual Detective
 site: distill::distill_website
+listing: posts
 ---
 
 ```{r setup, include=FALSE}
